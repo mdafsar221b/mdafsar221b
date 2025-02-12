@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Amazon-Clone <br>👯 I’m looking to collaborate on any beginner Level Projects <br>🤝 I’m looking for help with Any my repo<br>🌱 I’m currently learning JavaScript<br>💬 Discuss Anything<br>⚡ Love for ~ Movies || Russian Literature || Code 
+🔭 I’m currently working on a Study material projects <br>👯 I’m looking to collaborate on any beginner Level Projects <br>🤝 I’m looking for help with Any my repo<br>🌱 I’m currently learning React <br>💬 Discuss Anything<br>⚡ Love for ~ Movies || Russian Literature || Code 
 
 
 ## 🌐 Socials:
